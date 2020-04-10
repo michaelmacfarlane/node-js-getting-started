@@ -1,0 +1,80 @@
+Name,Bells,Location,Time,Season,Jan,Feb,Mar,April,May,June,July,Aug,Sept,Oct,Nov,Dec
+Barreleye,$15000,Sea,9pm - 4am,Jan,Feb,Mar,April,May,June,July,Aug,Sept,Oct,Nov,Dec
+Coelacanth,$15000,Sea (Rainy Days),All Day,Jan,Feb,Mar,April,May,June,July,Aug,Sept,Oct,Nov,Dec
+Golden Trout,$15000,River (Clifftop),4pm - 9am,,,Mar,April,May,,,,Sept,Oct,Nov,
+Blue Marlin,$10000,Pier,All Day,Jan,Feb,Mar,April,,June,July,Aug,Sept,,Nov,Dec
+Sturgeon,$10000,River (Mouth),All Day,,,,April,May,June,July,Aug,Sept,,,
+Oarfish,$9000,Sea,All Day,Jan,Feb,Mar,April,May,,,,,,,Dec
+Tuna,$7000,Pier,All Day,Jan,Feb,Mar,April,,,,,,,Nov,Dec
+Barred Knifejaw,$5000,Sea,All Day,,,Mar,April,May,June,July,Aug,Sept,Oct,Nov,
+Snapping Turtle,$5000,River,9pm - 4am,,,,April,May,June,July,Aug,Sept,Oct,,
+Ranchu Goldfish,$4500,Pond,9am - 4pm,Jan,Feb,Mar,April,May,June,July,Aug,Sept,Oct,Nov,Dec
+Koi,$4000,Pond,4pm - 9am,Jan,Feb,Mar,April,May,June,July,Aug,Sept,Oct,Nov,Dec
+Char,$3800,River,4pm - 9am,,,Mar,April,May,June,,Aug,Sept,Oct,Nov,
+Red Snapper,$3000,Sea,All Day,Jan,Feb,Mar,April,May,June,July,Aug,Sept,Oct,Nov,Dec
+Goldfish,$1300,Pond,All Day,Jan,Feb,Mar,April,May,June,July,Aug,Sept,Oct,Nov,Dec
+Pop-eyed Goldfish,$1300,Pond,9am - 4pm,Jan,Feb,Mar,April,May,June,July,Aug,Sept,Oct,Nov,Dec
+Guppy,$1300,River,9am - 4pm,,,,April,May,June,July,Aug,Sept,Oct,Nov,
+Seahorse,$1100,Sea,All Day,,,,April,May,June,July,Aug,Sept,Oct,Nov,
+Cherry Salmon,$1000,River (Clifftop),All Day,,,Mar,April,May,June,,,Sept,Oct,Nov,
+Butterfly Fish,$1000,Sea,All Day,,,,April,May,June,July,Aug,Sept,,,
+Olive Flounder, $800 ,Ocean,All Day,Jan,Feb,Mar,April,May,June,July,Aug,Sept,Oct,Nov,Dec
+Clownfish, $650 ,Ocean,All Day,,,,April,May,June,July,Aug,Sept,,,
+Squid, $500 ,Ocean,All Day,Jan,Feb,Mar,April,May,June,July,Aug,,,,Dec
+Neon Tetra, $500 ,River,9am - 4pm,,,,April,May,June,July,Aug,Sept,Oct,Nov,
+Zebra Turkeyfish, $500 ,Sea,All Day,,,,April,May,June,July,Aug,Sept,Oct,Nov,
+Black Bass, $400 ,River,All Day,Jan,Feb,Mar,April,May,June,July,Aug,Sept,Oct,Nov,Dec
+Freshwater Goby, $400 ,River,4pm - 9am,Jan,Feb,Mar,April,May,June,July,Aug,Sept,Oct,Nov,Dec
+Loach, $400 ,River,All Day,,,Mar,April,May,,,,,,,
+Sea Bass, $400 ,Sea,All Day,Jan,Feb,Mar,April,May,June,July,Aug,Sept,Oct,Nov,Dec
+Carp, $300 ,River,All Day,Jan,Feb,Mar,April,May,June,July,Aug,Sept,Oct,Nov,Dec
+Dab, $300 ,Ocean,All Day,Jan,Feb,Mar,April,,,,,,Oct,Nov,Dec
+Dace, $240 ,River,4pm - 9am,Jan,Feb,Mar,April,May,June,July,Aug,Sept,Oct,Nov,Dec
+Anchovy, $200 ,Ocean,4am - 9pm,Jan,Feb,Mar,April,May,June,July,Aug,Sept,Oct,Nov,Dec
+Pale Chub, $200 ,River,9am - 4pm,Jan,Feb,Mar,April,May,June,July,Aug,Sept,Oct,Nov,Dec
+Crawfish, $200 ,Pond,All Day,,,,April,May,June,July,Aug,Sept,,,
+Bluegill, $180 ,River,9am - 4pm,Jan,Feb,Mar,April,May,June,July,Aug,Sept,Oct,Nov,Dec
+Crucian Carp, $160 ,River,All Day,Jan,Feb,Mar,April,May,June,July,Aug,Sept,Oct,Nov,Dec
+Horse Mackerel, $150 ,Sea,All Day,Jan,Feb,Mar,April,May,June,July,Aug,Sept,Oct,Nov,Dec
+Tadpole, $100 ,Pond,All Day,,,Mar,April,May,June,July,,,,,
+Killifish,$300,Pond,All Day,,,,April,May,June,July,Aug,,,,
+Stringfish,$15000,River (Clifftop),4pm - 9am,Jan,Feb,Mar,,,,,,,,,Dec
+Dorado,$15000,River,4am - 9pm,,,,,,June,July,Aug,Sept,,,
+Great White Shark,$15000,Sea,4pm - 9am,,,,,,June,July,Aug,Sept,,,
+Whale Shark,$13,000,Sea,All Day,,,,,,June,July,Aug,Sept,,,
+Saw Shark,$12000,Sea,4pm - 9am,,,,,,June,July,Aug,Sept,,,
+Arapaima,$10000,River,4pm - 9am,,,,,,June,July,Aug,Sept,,,
+Arowana,$10000,River,4pm - 9am,,,,,,June,July,Aug,Sept,,,
+Napoleonfish,$10000,Sea,4am - 9pm,,,,,,,July,Aug,,,,
+Hammerhead Shark,$8000,Sea,4pm - 9am,,,,,,June,July,Aug,Sept,,,
+Gar,$6000,Pond,4pm - 9am,,,,,,June,July,Aug,Sept,,,
+Mahi-Mahi,$6000,Pier,,,,,,May,June,July,Aug,Sept,Oct,,
+Blowfish,$5000,Sea,9pm - 4am,Jan,Feb,,,,,,,,,Nov,Dec
+Ocean Sunfish,$4000,Sea,4am - 9pm,,,,,,,July,Aug,Sept,,,
+Saddled Bichir,$4000,River,9pm - 4am,,,,,,June,July,Aug,Sept,,,
+Soft-shelled Turtle,$3750,River,4pm - 9am,,,,,,,,Aug,Sept,,,
+Angelfish,$3000,River,4pm - 9am,,,,,May,June,July,Aug,Sept,Oct,,
+Ray,$3000,Sea,4am - 9pm,,,,,,,,Aug,Sept,Oct,Nov,
+Football Fish,$2500,Sea,4pm - 9am,Jan,Feb,Mar,,,,,,,,Nov,Dec
+Betta,$2500,River,9am - 4pm,,,,,May,June,July,Aug,Sept,,,
+Piranha,$2500,River,9am - 4pm & 9pm - 4am,,,,,,June,July,Aug,Sept,,,
+Mitten Crab,$2000,River,4pm - 9am,,,,,,,,,Sept,Oct,Nov,
+Moray Eel,$2000,Sea,All Day,,,,,,,,Aug,Sept,Oct,,
+King Salmon,$1800,River (Mouth),All Day,,,,,,,,,Sept,,,
+Pike,$1800,River,All Day,,,,,,,,,Sept,Oct,Nov,Dec
+Nibble Fish,$1500,River,9am - 4pm,,,,,May,June,July,Aug,Sept,,,
+Suckerfish,$1500,Sea,All Day,,,,,,June,July,Aug,Sept,,,
+Sea Butterfly,$1000,Sea,All Day,Jan,Feb,Mar,,,,,,,,,Dec
+Bitterling, $900 ,River,All Day,Jan,Feb,Mar,,,,,,,,Nov,Dec
+Sweetfish, $900 ,River,All Day,,,,,,,July,Aug,Sept,,,
+Catfish, $800 ,Pond,4pm - 9am,,,,,May,June,July,Aug,Sept,Oct,,
+Rainbow Fish, $800 ,River,9am - 4pm,,,,,May,June,July,Aug,Sept,Oct,,
+Tilapia, $800 ,River,All Day,,,,,,June,July,Aug,Sept,Oct,,
+Salmon, $700 ,River (Mouth),All Day,,,,,,,,,Sept,,,
+Ribbon Eel, $600 ,Sea,All Day,,,,,,June,July,Aug,Sept,Oct,,
+Yellow Perch, $300 ,River,All Day,Jan,Feb,Mar,,,,,,,Oct,Nov,Dec
+Puffer Fish, $250 ,Sea,All Day,,,,,,,July,Aug,Sept,,,
+Frog,,Pond,All Day,,,,,May,June,July,Aug,,,,
+Giant Snakehead,,Pond,9am - 4pm,,,,,May,June,July,Aug,,,,
+Giant Trevally,,Pier,All Day,,,,,May,June,July,Aug,Sept,Oct,,
+Pond Smelt,,River,All Day,Jan,Feb,,,,,,,,,,Dec

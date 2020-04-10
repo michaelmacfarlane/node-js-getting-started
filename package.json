@@ -11,6 +11,7 @@
     "test": "node test.js"
   },
   "dependencies": {
+    "csvtojson": "^2.0.10",
     "ejs": "^2.5.6",
     "express": "^4.15.2"
   },
