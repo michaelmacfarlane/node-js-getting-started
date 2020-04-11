@@ -13,10 +13,20 @@ const fish = async (req, res) => {
     res.json(jsonArray);
 }
 
+const bugs = async (req, res) => {
+    console.log("bugs")
+
+    const csvFilePath = "data/AnimalCrossingCritternariumBugs.csv";
+    const jsonArray = await csv().fromFile(csvFilePath);
+
+    res.json(jsonArray);
+}
+
 express()
   .use(express.static(path.join(__dirname, 'public')))
   .set('views', path.join(__dirname, 'views'))
   .set('view engine', 'ejs')
   .get('/', (req, res) => res.render('pages/index'))
     .get('/fish', fish)
+    .get('/bugs', bugs)
   .listen(PORT, () => console.log(`Listening on ${ PORT }`))
